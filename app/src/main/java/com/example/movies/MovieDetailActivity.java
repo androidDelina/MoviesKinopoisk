@@ -79,11 +79,6 @@ public class MovieDetailActivity extends AppCompatActivity {
             }
         });
         recyclerViewWatchResource.setAdapter(watchResourceAdapter);
-
-        MovieDao movieDao = MovieDatabase.getDatabase(getApplication()).movieDao();
-        movieDao.addMovie(movie)
-                .subscribeOn(Schedulers.io())
-                .subscribe();
     }
 
     public static Intent newIntent(Context context, Movie movie) {

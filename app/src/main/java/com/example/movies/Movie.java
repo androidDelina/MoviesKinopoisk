@@ -8,9 +8,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.io.Serializable;
 
-@Entity(tableName = "favorite_movie_bd")
 public class Movie implements Serializable {
-    @PrimaryKey
     @SerializedName("id")
     private int id;
     @SerializedName("name")
