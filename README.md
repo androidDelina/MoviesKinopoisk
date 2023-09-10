@@ -11,4 +11,6 @@ By clicking on a movie, the user will go to a detailed activity. The detailed ac
 
 
 # 👾 Screenshots:
-![Screenshot]()
+![Screenshot All Films](https://github.com/androidDelina/MoviesKinopoisk/blob/main/Снимок%20экрана%202023-09-10%20в%2023.55.10.png)
+![Screenshot Detail Activity](https://github.com/androidDelina/MoviesKinopoisk/blob/main/Снимок%20экрана%202023-09-10%20в%2023.58.43.png)
+![Screenshot Reviews](https://github.com/androidDelina/MoviesKinopoisk/blob/main/Снимок%20экрана%202023-09-10%20в%2023.59.10.png)
